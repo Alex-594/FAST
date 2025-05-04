@@ -61,6 +61,12 @@ CHANGELOG_TEXT = f"""
 #pyinstaller --onefile --windowed --icon=i.ico FAST_2.py
 # сборка в один файл без консоли
 #pyinstaller --onefile --icon=i.ico FAST_2.py
+
+
+# По мере внесения осмысленных изменений, повторяйте цикл:
+# Подготовьте изменения: git add . (или укажите конкретные файлы)
+# Сделайте коммит: git commit -m "Описание ваших изменений"
+# Отправьте новые коммиты на GitHub: git push origin main
 ############## ТАЙМЕР ОТСЧЕТА ##############
 
 from PyQt6.QtWidgets import (QMainWindow, QLabel, QPushButton, QVBoxLayout, 
