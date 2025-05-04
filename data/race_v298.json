@@ -1,0 +1,3191 @@
+{
+    "meta": {
+        "version": 298,
+        "created_at": "2025-04-25 21:12:24",
+        "name": "Макошь",
+        "date": "26-04-2025"
+    },
+    "params": {
+        "время_регистрации": "10:00",
+        "время_брифинга": "11:00",
+        "время_старта": "11:30",
+        "время_закрытия_трассы": "21:30",
+        "время_награждения": "23:00",
+        "количество_кп": "37",
+        "бальность_кп": "5",
+        "зачет1": "Спорт",
+        "зачет2": "Туризм",
+        "расчетное_время_трассы": "10:00:00"
+    },
+    "checkpoints": [
+        {
+            "name": "КП 1",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 2",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "10",
+            "stages": [
+                "Карта"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 3",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 4",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 5",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 6",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 7",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 8",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 9",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 10",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "10",
+            "stages": [
+                "Карта"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 11",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 12",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "10",
+            "stages": [
+                "Карта"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 13",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 14",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 15",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 16",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 17",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 18",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 19",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 20",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 21",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Карта"
+            ]
+        },
+        {
+            "name": "КП 22",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Туман"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 23",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Туман"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 24",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Туман"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "КП 25",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Туман"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 1",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 2",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 3",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 4",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 5",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛУ 6",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Узелки"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 1",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 2",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 3",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 4",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 5",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        },
+        {
+            "name": "ЛН 6",
+            "classifications": {
+                "Спорт": true,
+                "Туризм": true
+            },
+            "score": "5",
+            "stages": [
+                "Легенда"
+            ],
+            "false_for": []
+        }
+    ],
+    "members": [
+        {
+            "адрес_электронной_почты": "yulin.dmitry@gmail.com",
+            "капитан": "Штурман",
+            "субъект": "Москва",
+            "номер": "1",
+            "пилот": "Андреев Борис",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1900-01-02 00:00:00",
+            "контактный_телефон_пилота": "+79250110048",
+            "штурман": "Юлин Дмитрий",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1990-01-01 00:00:00",
+            "контактный_телефон_штурмана": "+79099227362",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Kia Sportage",
+            "гос.номер": "К923МК177",
+            "привод_автомобиля": "Передний",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:32",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:35",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:36",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:08:44",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:22:13",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:54:22",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "20:00:00",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "auto_move_skp_closed",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:29:25",
+                    "exit_time": "15:44:25",
+                    "duration": 900,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "18:08:44",
+                    "exit_time": "18:22:13",
+                    "duration": 809,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:54:22",
+                    "exit_time": "20:00:00",
+                    "duration": 338,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 3,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 3",
+                "ЛУ 6",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 165,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:02:42"
+        },
+        {
+            "адрес_электронной_почты": "7897467@mail.ru",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "2",
+            "пилот": "Ермаков Петр",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1980-05-30 00:00:00",
+            "контактный_телефон_пилота": "89162019933",
+            "штурман": "Ермаков Влад",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "2001-10-03 00:00:00",
+            "контактный_телефон_штурмана": "89175700452",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Land rover",
+            "гос.номер": "р750рх797",
+            "привод_автомобиля": "Передний",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 11:02",
+            "started": true,
+            "start_time": "11:15:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:38",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:38",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:41:58",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:56:58",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "auto_move_timeout",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:50:47",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:59:16",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:55:48",
+                    "exit_time": "15:57:48",
+                    "duration": 120,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:41:58",
+                    "exit_time": "17:56:58",
+                    "duration": 900,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:50:47",
+                    "exit_time": "19:59:16",
+                    "duration": 509,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 8,
+            "taken_cps": [
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 15",
+                "КП 16",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 105,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:04:09"
+        },
+        {
+            "адрес_электронной_почты": "kyelepe@yandex.ru",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "3",
+            "пилот": "Андрюхина Ольга",
+            "пол_пилота": "Женский",
+            "дата_рождения_пилота": "1983-04-30 00:00:00",
+            "контактный_телефон_пилота": "89161742281",
+            "штурман": "Назина Мария",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1986-12-29 00:00:00",
+            "контактный_телефон_штурмана": "89165586030",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Нива Шевроле",
+            "гос.номер": "Е153СТ77",
+            "привод_автомобиля": "4х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 11:29",
+            "started": true,
+            "start_time": "11:15:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:40",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:40",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:02:43",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:04:11",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:54:51",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:55:34",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:42:55",
+                    "exit_time": "15:43:33",
+                    "duration": 38,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "19:02:43",
+                    "exit_time": "19:04:11",
+                    "duration": 88,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:54:51",
+                    "exit_time": "19:55:34",
+                    "duration": 43,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 4,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 15",
+                "КП 16",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 125,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:11:58"
+        },
+        {
+            "адрес_электронной_почты": "KRASTV@mail.ru",
+            "капитан": "Пилот",
+            "субъект": "Тверь",
+            "номер": "4",
+            "пилот": "Рудаков Павел",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1967-02-24 00:00:00",
+            "контактный_телефон_пилота": "89106498335",
+            "штурман": "Рудаков Егор",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "2010-01-14 00:00:00",
+            "контактный_телефон_штурмана": "89806337218",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "1",
+            "авто": "Паджера",
+            "гос.номер": "Н 632 СА 69",
+            "привод_автомобиля": "4х4",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:33",
+            "started": true,
+            "start_time": "11:00:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:42",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:45",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:42:49",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:53:28",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:50:48",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:57:50",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:54:33",
+                    "exit_time": "15:58:30",
+                    "duration": 237,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:42:49",
+                    "exit_time": "17:53:28",
+                    "duration": 639,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:50:48",
+                    "exit_time": "19:57:50",
+                    "duration": 422,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 5,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 18",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 125,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:04:25"
+        },
+        {
+            "адрес_электронной_почты": "bs45bs45@yandex.ru",
+            "капитан": "Пилот",
+            "субъект": "Торжок",
+            "номер": "5",
+            "пилот": "Балдин Александр",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1973-04-15 00:00:00",
+            "контактный_телефон_пилота": "89106498727",
+            "штурман": "Болдина Юлия",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1975-04-06 00:00:00",
+            "контактный_телефон_штурмана": "89109304232",
+            "пассажиры": "Балдин Александр",
+            "общее_количество": "3",
+            "до_18_лет": "1",
+            "авто": "Джип чероки XJ",
+            "гос.номер": "У311РУ69",
+            "привод_автомобиля": "Передний",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:18",
+            "started": true,
+            "start_time": "11:15:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:43",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:46",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:38:51",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:40:02",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:51:13",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:52:02",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "21:17:22",
+                    "action": "time_limit_exceeded",
+                    "details": {
+                        "track_limit": "21:30",
+                        "neutralization": "00:02:22"
+                    }
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:16:10",
+                    "exit_time": "15:16:32",
+                    "duration": 22,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "18:38:51",
+                    "exit_time": "18:40:02",
+                    "duration": 71,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:51:13",
+                    "exit_time": "19:52:02",
+                    "duration": 49,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 6,
+            "taken_cps": [
+                "КП 1",
+                "КП 3",
+                "КП 5",
+                "КП 7",
+                "КП 14",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛУ 6",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 100,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:17:23",
+            "dnf_reason": "Превышено время трассы"
+        },
+        {
+            "адрес_электронной_почты": "daria.lips@gmail.com",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "6",
+            "пилот": "Липская Дарья",
+            "пол_пилота": "Женский",
+            "дата_рождения_пилота": "1986-01-14 00:00:00",
+            "контактный_телефон_пилота": "+79263668877",
+            "штурман": "Кузнецов Пётр",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "2008-04-28 00:00:00",
+            "контактный_телефон_штурмана": "+79267159593",
+            "пассажиры": "Пермяков Илья\nДенисов Сергей",
+            "общее_количество": "4",
+            "до_18_лет": "1",
+            "авто": "Nissan Juke",
+            "гос.номер": "X496MY197",
+            "привод_автомобиля": "2х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 10:19",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:47",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:52",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:14:04",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:18:54",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:38:04",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:39:32",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": true
+                },
+                {
+                    "time": "18:39:55",
+                    "from": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "move_back",
+                    "cancelled": true
+                },
+                {
+                    "time": "18:41:50",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:28:28",
+                    "exit_time": "15:40:45",
+                    "duration": 737,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:14:04",
+                    "exit_time": "17:18:54",
+                    "duration": 290,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "18:38:04",
+                    "exit_time": "18:39:32",
+                    "duration": 88,
+                    "cancelled": true
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "18:38:04",
+                    "exit_time": "18:41:50",
+                    "duration": 226,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 3,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 4",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 130,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:35:32"
+        },
+        {
+            "адрес_электронной_почты": "me@bood.su",
+            "капитан": "Пилот",
+            "субъект": "Тверь",
+            "номер": "7",
+            "пилот": "Будихин Константин",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1988-03-30 00:00:00",
+            "контактный_телефон_пилота": "89040121141",
+            "штурман": "Девицын Дмитрий",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1988-08-22 00:00:00",
+            "контактный_телефон_штурмана": "89201527608",
+            "пассажиры": "Эраст Карханин",
+            "общее_количество": "3",
+            "до_18_лет": "0",
+            "авто": "УАЗ-31512",
+            "гос.номер": "к849кн69",
+            "привод_автомобиля": "4х4",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:35",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:49",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:53",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:58:26",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:12:56",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:13:25",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:17:12",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "21:16:56",
+                    "action": "time_limit_exceeded",
+                    "details": {
+                        "track_limit": "21:30",
+                        "neutralization": "00:31:56"
+                    }
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:12:06",
+                    "exit_time": "15:25:45",
+                    "duration": 819,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:58:26",
+                    "exit_time": "18:12:56",
+                    "duration": 870,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:13:25",
+                    "exit_time": "19:17:12",
+                    "duration": 227,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 4,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛУ 4",
+                "ЛУ 6",
+                "ЛН 3",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 185,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:16:57",
+            "dnf_reason": "Превышено время трассы"
+        },
+        {
+            "адрес_электронной_почты": "nastya.varushckina@yandex.ru",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "8",
+            "пилот": "Варушкина Анастасия",
+            "пол_пилота": "Женский",
+            "дата_рождения_пилота": "2001-07-31 00:00:00",
+            "контактный_телефон_пилота": "89645529061",
+            "штурман": "Кожевникова Ульяна",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "2001-08-21 00:00:00",
+            "контактный_телефон_штурмана": "+7 (925) 907-55-19",
+            "пассажиры": "Сацков Максим \nМакеев Степан \nКачурина Диана ",
+            "общее_количество": "5",
+            "до_18_лет": "0",
+            "авто": "Mazda cx-7",
+            "гос.номер": "Е852СС199",
+            "привод_автомобиля": "4х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 11:29",
+            "started": true,
+            "start_time": "11:00:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:50",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:54",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:28:42",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:29:49",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "20:00:00",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "auto_skip_skp_closed",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:37:15",
+                    "exit_time": "15:51:22",
+                    "duration": 847,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "18:28:42",
+                    "exit_time": "18:29:49",
+                    "duration": 67,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "20:00:00",
+                    "exit_time": "20:00:00",
+                    "duration": 0,
+                    "cancelled": false,
+                    "skipped_due_to_closing": true
+                }
+            ],
+            "current_skp": null,
+            "место": 9,
+            "taken_cps": [
+                "КП 1",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 13",
+                "КП 14",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25"
+            ],
+            "total_score": 85,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:51:08"
+        },
+        {
+            "адрес_электронной_почты": "lebedinskaya@gmail.com",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "11",
+            "пилот": "Лебединская Елена ",
+            "пол_пилота": "Женский",
+            "дата_рождения_пилота": "1983-07-27 00:00:00",
+            "контактный_телефон_пилота": "+79031284385",
+            "штурман": "Забарин Сергей",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1979-09-09 00:00:00",
+            "контактный_телефон_штурмана": "+79269886168",
+            "пассажиры": "Небольсина Екатерина",
+            "общее_количество": "3",
+            "до_18_лет": "1",
+            "авто": "Mitsubishi Outlander",
+            "гос.номер": "М717КН799",
+            "привод_автомобиля": "2х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 10:58",
+            "started": true,
+            "start_time": "11:15:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:55",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:37:57",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:15:11",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:15:56",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:15:59",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:16:40",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:51:41",
+                    "exit_time": "15:59:59",
+                    "duration": 498,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "19:15:11",
+                    "exit_time": "19:15:56",
+                    "duration": 45,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:15:59",
+                    "exit_time": "19:16:40",
+                    "duration": 41,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 5,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 4",
+                "КП 6",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 15",
+                "КП 16",
+                "КП 18",
+                "КП 21",
+                "ЛУ 1",
+                "ЛУ 3",
+                "ЛУ 4",
+                "ЛУ 5",
+                "ЛУ 6",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 120,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:25:24"
+        },
+        {
+            "адрес_электронной_почты": "kst@ekis.ru",
+            "капитан": "Штурман",
+            "субъект": "Москва",
+            "номер": "17",
+            "пилот": "Герасимова Светлана",
+            "пол_пилота": "Женский",
+            "дата_рождения_пилота": "1972-07-23 00:00:00",
+            "контактный_телефон_пилота": "8 909 644-37-41",
+            "штурман": "Станкевич Константин",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1972-06-29 00:00:00",
+            "контактный_телефон_штурмана": "+7 910 4467141",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Hyundai Creta",
+            "гос.номер": "о375ух199",
+            "привод_автомобиля": "2х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 11:27",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:37:59",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:02",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:20:00",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:28:32",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "20:00:00",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "auto_skip_skp_closed",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:59:59",
+                    "exit_time": "15:59:59",
+                    "duration": 0,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "19:20:00",
+                    "exit_time": "19:28:32",
+                    "duration": 512,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "20:00:00",
+                    "exit_time": "20:00:00",
+                    "duration": 0,
+                    "cancelled": false,
+                    "skipped_due_to_closing": true
+                }
+            ],
+            "current_skp": null,
+            "место": 2,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "ЛУ 1",
+                "ЛУ 6"
+            ],
+            "total_score": 145,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:39:50"
+        },
+        {
+            "адрес_электронной_почты": "lapshin.leon@yandex.ru",
+            "капитан": "Пилот",
+            "субъект": "Москва",
+            "номер": "28",
+            "пилот": "Лапшин Леонид",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1972-12-29 00:00:00",
+            "контактный_телефон_пилота": "89169028603",
+            "штурман": "Лапшина Татьяна",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1976-09-02 00:00:00",
+            "контактный_телефон_штурмана": "89169028603",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "JMC Vigus",
+            "гос.номер": "С414КС977",
+            "привод_автомобиля": "4х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 10:22",
+            "started": true,
+            "start_time": "11:30:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:06",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:07",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:15:39",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:16:32",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:21:55",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:33:59",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:45:20",
+                    "exit_time": "15:53:45",
+                    "duration": 505,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:15:39",
+                    "exit_time": "17:16:32",
+                    "duration": 53,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:21:55",
+                    "exit_time": "19:33:59",
+                    "duration": 724,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 7,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 6",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 110,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:31:02"
+        },
+        {
+            "адрес_электронной_почты": "ivah1@yandex.ru",
+            "капитан": "Пилот",
+            "субъект": "Нижний Новгород",
+            "номер": "52",
+            "пилот": "Саватеев Игорь",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1974-02-10 00:00:00",
+            "контактный_телефон_пилота": "9056647363",
+            "штурман": "Чурюмов Иван",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1982-12-04 00:00:00",
+            "контактный_телефон_штурмана": "+79056617165",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Нива Шевроле",
+            "гос.номер": "Н789СХ152",
+            "привод_автомобиля": "4х4",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:28",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:09",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:11",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:19:22",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:21:23",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:45:43",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:46:23",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:38:01",
+                    "exit_time": "15:48:00",
+                    "duration": 599,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "19:19:22",
+                    "exit_time": "19:21:23",
+                    "duration": 121,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:45:43",
+                    "exit_time": "19:46:23",
+                    "duration": 40,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 4,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 23",
+                "КП 24",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛН 4",
+                "ЛН 6"
+            ],
+            "total_score": 150,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:45:23"
+        },
+        {
+            "адрес_электронной_почты": "olja159@bk.ru",
+            "капитан": "Пилот",
+            "субъект": "Торжок",
+            "номер": "69",
+            "пилот": "Лебедев Дмитрий ",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1986-11-03 00:00:00",
+            "контактный_телефон_пилота": "9206830571",
+            "штурман": "Ольга Лебедева ",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1986-11-29 00:00:00",
+            "контактный_телефон_штурмана": "9206849037",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Субару Форестер ",
+            "гос.номер": "Х403РМ 69",
+            "привод_автомобиля": "Передний",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 10:57",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:13",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:15",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:26:17",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:34:51",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:56:52",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:59:57",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "14:54:17",
+                    "exit_time": "15:05:59",
+                    "duration": 702,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "18:26:17",
+                    "exit_time": "18:34:51",
+                    "duration": 514,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "18:56:52",
+                    "exit_time": "18:59:57",
+                    "duration": 185,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 1,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛУ 4",
+                "ЛУ 6",
+                "ЛН 3",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 185,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:02:30"
+        },
+        {
+            "адрес_электронной_почты": "lisovik@inbox.ru",
+            "капитан": "Штурман",
+            "субъект": "Москва",
+            "номер": "77",
+            "пилот": "Дергачев Александр",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1972-04-06 00:00:00",
+            "контактный_телефон_пилота": "+7 (905) 758-16-71",
+            "штурман": "Лисовик Мария ",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1985-11-24 00:00:00",
+            "контактный_телефон_штурмана": "89104008094",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Volvo c60",
+            "гос.номер": "Не помню)",
+            "привод_автомобиля": "2х4",
+            "зачет": "Туризм",
+            "registered": true,
+            "registration_time": "2025-04-26 10:30",
+            "started": true,
+            "start_time": "11:15:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:17",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:20",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:56:42",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:58:51",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:56:03",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "20:00:00",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "auto_move_skp_closed",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:51:09",
+                    "exit_time": "15:59:05",
+                    "duration": 476,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "18:56:42",
+                    "exit_time": "18:58:51",
+                    "duration": 129,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:56:03",
+                    "exit_time": "20:00:00",
+                    "duration": 237,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 6,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 19",
+                "КП 21",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛУ 5",
+                "ЛУ 6",
+                "ЛН 6"
+            ],
+            "total_score": 120,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "21:17:25"
+        },
+        {
+            "адрес_электронной_почты": "katya.sevostyanova@list.ru",
+            "капитан": "Штурман",
+            "субъект": "Тверь",
+            "номер": "78",
+            "пилот": "Дунаев Вячеслав Валерьевич",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1981-06-27 00:00:00",
+            "контактный_телефон_пилота": "89066531491",
+            "штурман": "Севостьянова Екатерина Евгеньевна",
+            "пол_штурмана": "Женский",
+            "дата_рождения_штурмана": "1994-02-18 00:00:00",
+            "контактный_телефон_штурмана": "89040073325",
+            "пассажиры": "Зеркалов Александр\nЕрмакова Екатерина",
+            "общее_количество": "4",
+            "до_18_лет": "0",
+            "авто": "УАЗ Патриот",
+            "гос.номер": "о878ра69",
+            "привод_автомобиля": "4х4",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:26",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:22",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:23",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:00:28",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:01:02",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:50:46",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "19:58:54",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "15:45:25",
+                    "exit_time": "15:59:28",
+                    "duration": 843,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "19:00:28",
+                    "exit_time": "19:01:02",
+                    "duration": 34,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "19:50:46",
+                    "exit_time": "19:58:54",
+                    "duration": 488,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 2,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛУ 6",
+                "ЛН 1",
+                "ЛН 2",
+                "ЛН 3",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 185,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "20:49:30"
+        },
+        {
+            "адрес_электронной_почты": "cct1975@mail.ru",
+            "капитан": "Штурман",
+            "субъект": "Тверь",
+            "номер": "88",
+            "пилот": "Чекмарев Алексей",
+            "пол_пилота": "Мужской",
+            "дата_рождения_пилота": "1975-02-14 00:00:00",
+            "контактный_телефон_пилота": "89206910564",
+            "штурман": "Шатков Роман",
+            "пол_штурмана": "Мужской",
+            "дата_рождения_штурмана": "1995-03-19 00:00:00",
+            "контактный_телефон_штурмана": "89040101837",
+            "пассажиры": "",
+            "общее_количество": "2",
+            "до_18_лет": "0",
+            "авто": "Suzuki Jimny",
+            "гос.номер": "K303KO69",
+            "привод_автомобиля": "4х4",
+            "зачет": "Спорт",
+            "registered": true,
+            "registration_time": "2025-04-26 10:34",
+            "started": true,
+            "start_time": "10:45:00",
+            "current_stage": 4,
+            "stage_history": [
+                {
+                    "stage": 1,
+                    "start_time": "11:30:00"
+                },
+                {
+                    "time": "11:38:24",
+                    "from": {
+                        "type": "stage",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "11:38:26",
+                    "from": {
+                        "type": "skp",
+                        "number": 1
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:18:03",
+                    "from": {
+                        "type": "stage",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "17:18:34",
+                    "from": {
+                        "type": "skp",
+                        "number": 2
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:13:19",
+                    "from": {
+                        "type": "stage",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "action": "enter_skp",
+                    "cancelled": false
+                },
+                {
+                    "time": "18:14:37",
+                    "from": {
+                        "type": "skp",
+                        "number": 3
+                    },
+                    "to": {
+                        "type": "stage",
+                        "number": 4
+                    },
+                    "action": "manual_move",
+                    "cancelled": false
+                }
+            ],
+            "skp_entries": [
+                {
+                    "skp": 1,
+                    "entry_time": "14:13:09",
+                    "exit_time": "14:13:50",
+                    "duration": 41,
+                    "cancelled": false
+                },
+                {
+                    "skp": 2,
+                    "entry_time": "17:18:03",
+                    "exit_time": "17:18:34",
+                    "duration": 31,
+                    "cancelled": false
+                },
+                {
+                    "skp": 3,
+                    "entry_time": "18:13:19",
+                    "exit_time": "18:14:37",
+                    "duration": 78,
+                    "cancelled": false
+                }
+            ],
+            "current_skp": null,
+            "место": 1,
+            "taken_cps": [
+                "КП 1",
+                "КП 2",
+                "КП 3",
+                "КП 4",
+                "КП 5",
+                "КП 6",
+                "КП 7",
+                "КП 8",
+                "КП 9",
+                "КП 10",
+                "КП 11",
+                "КП 12",
+                "КП 13",
+                "КП 14",
+                "КП 15",
+                "КП 16",
+                "КП 17",
+                "КП 18",
+                "КП 19",
+                "КП 20",
+                "КП 21",
+                "КП 22",
+                "КП 23",
+                "КП 24",
+                "КП 25",
+                "ЛУ 1",
+                "ЛУ 2",
+                "ЛУ 3",
+                "ЛУ 4",
+                "ЛУ 5",
+                "ЛУ 6",
+                "ЛН 1",
+                "ЛН 2",
+                "ЛН 3",
+                "ЛН 4",
+                "ЛН 5",
+                "ЛН 6"
+            ],
+            "total_score": 200,
+            "check_completed": true,
+            "finished": true,
+            "finish_time": "19:28:48"
+        }
+    ],
+    "logic_params": {
+        "common_start": true,
+        "penalty_type": "DNF",
+        "penalty_value": 0,
+        "false_cp_penalty": 0,
+        "staged": true,
+        "neutralization_type": "На каждом СКП",
+        "max_neutral_time": 0,
+        "stages_count": 4,
+        "stages": [
+            {
+                "name": "Карта",
+                "time_limit": ""
+            },
+            {
+                "name": "Узелки",
+                "time_limit": ""
+            },
+            {
+                "name": "Туман",
+                "time_limit": ""
+            },
+            {
+                "name": "Легенда",
+                "time_limit": ""
+            }
+        ],
+        "skp_settings": [
+            {
+                "number": 1,
+                "open_time": "11:30",
+                "close_time": "23:00",
+                "late_action": "Перенос на след. этап",
+                "max_neutral_time": 15
+            },
+            {
+                "number": 2,
+                "open_time": "15:00",
+                "close_time": "20:00",
+                "late_action": "Перенос на след. этап",
+                "max_neutral_time": 15
+            },
+            {
+                "number": 3,
+                "open_time": "15:00",
+                "close_time": "20:00",
+                "late_action": "Перенос на след. этап",
+                "max_neutral_time": 15
+            }
+        ]
+    }
+}
